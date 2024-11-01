@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mjsalisu/Downloads/PG/Semeter 1/MSE8301  - Concept of Programming/mse8301",
+      "program": "/Users/mjsalisu/Downloads/PG/Semeter 1/MSE8301  - Concept of Programming/mse8301/build/Debug/outDebug"
+    }
+  ]
+}
